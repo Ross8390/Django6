@@ -1,3 +1,5 @@
-django
+Django
+django-filter
 djangorestframework
 psycopg2-binary
+sqlparse
