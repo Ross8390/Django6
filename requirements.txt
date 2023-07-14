@@ -1,5 +1,9 @@
-Django
+asgiref
 django-filter
+Django
+django-environ
 djangorestframework
+docker
+psycopg2
 psycopg2-binary
-sqlparse
+gunicorn
